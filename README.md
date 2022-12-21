@@ -21,3 +21,9 @@ if __name__=="__main__":
 
 Note that `parse_mesh` is implemented as a low-memory-requiring generator. 
 
+# Thanks
+
+The code in this repo is adapted from 
+[this gist](https://gist.github.com/spock/67cc995b765573a8a8dac3a815806d01) to a poetry project
+and utilizes pydantic classes rather than regular python
+classes. 
